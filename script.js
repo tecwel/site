@@ -126,6 +126,7 @@ const videoUrls = [
     'https://www.youtube.com/embed/_02xrVU1gwo',
     'https://www.youtube.com/embed/dvbFIcw96a4',
     'https://www.youtube.com/embed/fUpiEtbXZE8',
+    'https://www.youtube.com/embed/1y4_tihWt2w',
 ];
 
 // Adding event listeners for all video elements
