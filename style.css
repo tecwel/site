@@ -153,10 +153,9 @@ body {
     border-radius: 8px 8px 0px 0px;
     max-width: 100vw;
     height: 40vh;
-    background-image: url("https://m.media-amazon.com/images/I/61y58Gl8TeL._AC_UF350,350_QL80_.jpg");
-    background-size: fill;
-    background-position: 0px -60px;
-    background-attachment: scroll;
+    background-image: url("https://f.media-amazon.com/images/I/6127HXUu4hL._SX679_.jpg");
+    background-position: -212px -225px;
+    background-attachment: fixed;
 
 }
 
@@ -166,7 +165,7 @@ body {
     padding: 3px;
     margin: 0px 5px;
     font-weight: 1000;
-    color: whitesmoke;
+    color: rgb(196, 6, 6);
     background-color: rgb(161, 157, 157);
     border-radius: 0px 0px 28px 28px;
     text-align: center;
@@ -275,7 +274,7 @@ li{
 }
 
 h2 {
-    margin: 0;
+    margin: 10px 0px 0px 0px;
     padding: 0;
 }
 
@@ -510,7 +509,7 @@ a {
         padding: 3px;
         margin: 0px 5px;
         font-weight: 1000;
-        color: whitesmoke;
+        color: red;
         background-color: rgb(161, 157, 157);
         border-radius: 0px 0px 28px 28px;
         text-align: center;
@@ -755,7 +754,7 @@ a {
         padding: 3px;
         margin: 0px 5px;
         font-weight: 1000;
-        color: whitesmoke;
+        color: red;
         background-color: rgb(161, 157, 157);
         border-radius: 0px 0px 28px 28px;
         text-align: center;
@@ -799,7 +798,7 @@ a {
     }
 
     h2 {
-        margin: 0;
+        margin: 10px 0px 0px 0px;
         padding: 0;
         font-size: 43px;
     }
