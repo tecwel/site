@@ -46,6 +46,7 @@ const videoUrls = [
     'https://www.youtube.com/embed/u3SJ4e89Q5s',
     'https://www.youtube.com/embed/G5Li1YGCa_I',
     'https://www.youtube.com/embed/gzYL7s1XZOo',
+    'https://www.youtube.com/embed/AqA71ZuTEdk',
     
 ];
 // // Adding event listeners for all video elements
